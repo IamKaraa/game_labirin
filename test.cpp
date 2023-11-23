@@ -1,5 +1,6 @@
 #include <iostream>
-
+using namespace std;
 int main(){
-  std::cout<<"test";
+  cout<<"test";
+  return 0;
 }
